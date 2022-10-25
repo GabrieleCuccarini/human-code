@@ -1,0 +1,32 @@
+Quanti posti ci sono? 5 
+    i posti sono maggiori di 2?
+        TRUE - è apparecchiato?
+            TRUE - i posti sono maggiori di 4?
+                TRUE - è apparecchiato?
+                    TRUE - i posti sono maggiori di 6?
+                        TRUE - è apparecchiato?
+                            TRUE - completato
+                            FALSE - c'è l'acqua?
+                                TRUE - ci sono le posate?
+                                     TRUE - c'è il cibo?
+                                        TRUE - è apparecchiato.
+                                        FALSE - porta il cibo.
+                                    FALSE - porta le posate.
+                                FALSE - porta l'acqua.
+                        FALSE - i posti diventano: 6
+                    FALSE - c'è l'acqua?
+                        TRUE - ci sono le posate?
+                            TRUE - c'è il cibo?
+                                TRUE - è apparecchiato.
+                                FALSE - porta il cibo.
+                            FALSE - porta le posate.
+                        FALSE - porta l'acqua.
+                FALSE - i posti diventano: 6
+            FALSE - c'è l'acqua?
+                TRUE - ci sono le posate?
+                    TRUE - c'è il cibo?
+                        TRUE - è apparecchiato.
+                        FALSE - porta il cibo.
+                    FALSE - porta le posate.
+                FALSE - porta l'acqua.
+        FALSE - i posti diventano: 6
